@@ -1,0 +1,10 @@
+# Core data analysis
+pandas==2.2.3
+numpy==1.26.4
+ 
+# Visualisation
+matplotlib==3.9.2
+seaborn==0.13.2
+ 
+# Notebook environment
+notebook==7.4.4
